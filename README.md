@@ -19,10 +19,10 @@
 
 ## :sparkles: CSS Box Model
 
-| Preview                           | Property                                                     | Description                                                  |
+| Предварительный просмотр          | Свойство                                                     | Описание                                                     |
 | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](./assets/css_box_model_1.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | <p align="center" markdown="true">[`box-sizing: border-box`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)</p> | The `width` and `height` have the size of `content`+`padding`+`border` |
-| [![](./assets/css_box_model_2.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | <p align="center" markdown="true">[`box-sizing: content-box`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)</p> | The `width` and `height` have the size of just `content` |
+| [![](./assets/css_box_model_1.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | <p align="center" markdown="true">[`box-sizing: border-box`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)</p> | Ширина `width` и высота `height` имеют размер `content`+`padding`+`border`. |
+| [![](./assets/css_box_model_2.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | <p align="center" markdown="true">[`box-sizing: content-box`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)</p> | В параметрах `width` и `height` указан размер только `content`. |
 
 | High Resolution |
 | --------------- |
